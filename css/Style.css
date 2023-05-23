@@ -1,0 +1,54 @@
+#logo{
+    background-color: #E6E6E6;
+    text-align: center;
+    color: #005677;
+}
+h1{
+    background-color: #c4c4c4;
+    color: #005677;
+    letter-spacing: 8px;
+}
+.datos, .academy, .experience{
+    background-color: #c4c4c4;
+    color: #005677;
+    letter-spacing: 6px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+    margin-top: 30px;
+}
+.name, .birth, .country {
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.year{
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    margin-top: 20px
+}
+.batman{
+    background-color:#005677;
+    text-align: center;
+    height: 35px;
+    color: #E6E6E6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 20px;
+}
+.image{
+    height: 20px;
+    width: 20px;
+}
+main{
+    margin-top: 100px;
+}
+footer{
+    margin-top: 100px;
+}
+.in{
+    margin-inline-start: 79px;
+}
